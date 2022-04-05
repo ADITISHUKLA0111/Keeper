@@ -8,13 +8,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </ul>
-<h1>screenshots</h1>
+<h1>This is how the project look like 👇</h1>
 <h4>Landing Page</h4>
 <img src="Screenshots/Landing.png"/>
 <h4>Adding a note 👇</h4>
+<img src="Screenshots/SS1.png"/>
+<h4>Deleting a note👇</h4>
 <img src="Screenshots/SS2.png"/>
 <h4>Deleting a note👇</h4>
-<img src="Screenshots/SS3.png"/>
+<img src="Screenshots/SS2.png"/>
 
 <h1>The Project is hosted <a href="https://aditishukla0111.github.io/Keeper/">here</a></h1>
   
