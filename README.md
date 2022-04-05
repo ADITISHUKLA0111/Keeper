@@ -12,11 +12,11 @@
 <h4>Landing Page</h4>
 <img src="Screenshots/Landing.png"/>
 <h4>Adding a note 👇</h4>
-<img src="Screenshots/SS1.png"/>
+<!-- <img src="Screenshots/SS1.png"/> -->
 <h4>Deleting a note👇</h4>
-<img src="Screenshots/SS2.png"/>
+<!-- <img src="Screenshots/SS2.png"/> -->
 <h4>Deleting a note👇</h4>
-<img src="Screenshots/SS2.png"/>
+<!-- <img src="Screenshots/SS3.png"/> -->
 
 <h1>The Project is hosted <a href="https://aditishukla0111.github.io/Keeper/">here</a></h1>
   
