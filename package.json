@@ -1,5 +1,6 @@
 {
   "name": "using-pre-built-react-components",
+  "homepage": "https://ADITISHUKLA0111.github.io/Keeper",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -9,6 +10,7 @@
     "@emotion/styled": "11.8.1",
     "@mui/icons-material": "5.5.1",
     "@mui/material": "5.5.3",
+    "gh-pages": "^3.2.3",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-scripts": "5.0.0"
@@ -17,6 +19,8 @@
     "typescript": "3.3.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
