@@ -1,7 +1,7 @@
-<h1>Keeper</h1>
-<p>It is a web application that will help users to make short notes.</p>
+# Keeper
+It is a web application that will help users to make short notes.
 
-<h1>technologies Uesd </h1>
+# Technologies Uesd
 <ul>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -13,13 +13,13 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   
 </ul>
-<h1> screenshots</h1>
-<p>Landing Page</p>
-<img src="ScreenShots/Lamding.png" />
-<p>Adding a note 👇</P>
-<img src="ScreenShots/SS2.png" />
-<p>Click the Delete button to remove a note👇</p>
-<img src="ScreenShots/SS3.png" />
+# screenshots
+Landing Page
+![](ScreenShots/Landing.png)
+Adding a note 👇
+![](ScreenShots/SS2.png)
+Click the Delete button to remove a note👇
+![](ScreenShots/SS3.png)
 
-<h1>The Project is hosted <a src="https://aditishukla0111.github.io/Keeper/">Here</a> 
+# The Project is hosted [here](https://aditishukla0111.github.io/Keeper/) 
   
