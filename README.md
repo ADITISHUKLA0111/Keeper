@@ -15,11 +15,11 @@ It is a web application that will help users to make short notes.
 </ul>
 # screenshots
 Landing Page
-![](ScreenShots/Landing.png)
+![](Screenshots/Landing.png)
 Adding a note 👇
-![](ScreenShots/SS2.png)
+![](Screenshots/SS2.png)
 Click the Delete button to remove a note👇
-![](ScreenShots/SS3.png)
+![](Screenshots/SS3.png)
 
 # The Project is hosted [here](https://aditishukla0111.github.io/Keeper/) 
   
