@@ -15,6 +15,11 @@
 </ul>
 <h1> screenshots</h1>
 <p>Landing Page</p>
+<img src="ScreenShots/Lamding.png" />
+<p>Adding a note 👇</P>
 <img src="ScreenShots/SS2.png" />
+<p>Click the Delete button to remove a note👇</p>
+<img src="ScreenShots/SS3.png" />
 
+<h1>The Project is hosted <a src="https://aditishukla0111.github.io/Keeper/">Here</a> 
   
