@@ -15,5 +15,6 @@
 </ul>
 <h1> screenshots</h1>
 <p>Landing Page</p>
+<img src="ScreenShots/SS2.png" />
 
   
